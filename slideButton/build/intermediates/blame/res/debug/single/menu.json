@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidstudio\\SlideButton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\androidstudio\\SlideButton\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\androidstudio\\SlideButton\\slideButton\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\androidstudio\\SlideButton\\slideButton\\src\\main\\res\\menu\\main.xml"
+    }
+]

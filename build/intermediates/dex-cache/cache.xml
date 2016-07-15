@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\androidstudio\SlideButton\slideButton\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b4f7c9a11737cc580be4b011109b2396731e173c">
+        <dex dex="D:\androidstudio\SlideButton\slideButton\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94afd765f41983dc990fcf16a69044a8c95e63a8\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidstudio\SlideButton\slideButton\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="79c41c0653163bc52d9ed1a68e5cf2bdf7be9263">
+        <dex dex="D:\androidstudio\SlideButton\slideButton\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9a2b2b44a7a7b1ca8271a2b0869071969ae798b3\classes.dex" />
+    </item>
+    <item
+        jar="D:\ruanjianguanli_1\androidstudio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\androidstudio\SlideButton\slideButton\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_bf47974c25ee4e5f7e76a9b198029049ffa1c9dc\classes.dex" />
+    </item>
+
+</items>

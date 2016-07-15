@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidstudio\\SlideButton\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\androidstudio\\SlideButton\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudio\\SlideButton\\slideButton\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\androidstudio\\SlideButton\\slideButton\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
