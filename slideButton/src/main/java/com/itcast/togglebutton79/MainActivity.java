@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onToggleStateChange(ToggleState mState) {
 				//实现真正的逻辑操作
-				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", Toast.LENGTH_LONG).show();
+				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", Toast.LENGTH_SHORT).show();
 			}
 		});
 	}
