@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 				//实现真正的逻辑操作
 				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", Toast.LENGTH_LONG).show();
 			}
-		});  
+		});
 	}
 
 	@Override
@@ -38,6 +38,6 @@ public class MainActivity extends Activity {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
-	}
+	} 
 
 }
