@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 				//实现真正的逻辑操作
 				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", Toast.LENGTH_LONG).show();
 			}
-		}); 
+		});  
 	}
 
 	@Override
