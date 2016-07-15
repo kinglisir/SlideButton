@@ -2,9 +2,5 @@
     {
         "merged": "D:\\androidstudio\\SlideButton\\slideButton\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\androidstudio\\SlideButton\\slideButton\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\androidstudio\\SlideButton\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\androidstudio\\SlideButton\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
