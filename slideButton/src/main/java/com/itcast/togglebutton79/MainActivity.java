@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onToggleStateChange(ToggleState mState) {
 				//实现真正的逻辑操作
-				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", 0).show();
+				Toast.makeText(MainActivity.this, mState==ToggleState.Close?"关闭":"打开", Toast.LENGTH_SHORT).show();
 			}
 		});
 	}
@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
-		return true;  
+		return true;
 	}
 
 }
